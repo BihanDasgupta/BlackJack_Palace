@@ -10,23 +10,42 @@
     "achievements": []
   },
   "Serena": {
-    "wins": 2,
+    "wins": 14,
     "badges": [
       "\ud83e\udd84",
-      "\ud83c\udf67"
+      "\ud83c\udf67",
+      "\ud83e\uddf8",
+      "\ud83e\udeb7",
+      "\ud83c\udf38"
     ],
     "achievements": [
       "Serena earned the Unicorn\ud83e\udd84 for winning after being behind in chips!",
-      "Serena earned the Ice Cream\ud83c\udf67 for getting 21 exactly!"
+      "Serena earned the Ice Cream\ud83c\udf67 for getting 21 exactly!",
+      "Serena earned the Teddy Bear\ud83e\uddf8 for beating the AI 3 times!",
+      "Serena earned the Pink Lotus\ud83e\udeb7 for getting five wins!",
+      "Serena earned the Cherry Blossom\ud83c\udf38 for winning with all hearts or diamonds!"
     ]
   },
   "Blair": {
-    "wins": 0,
+    "wins": 8,
+    "badges": [
+      "\ud83c\udf67",
+      "\ud83e\uddf8",
+      "\ud83e\udeb7"
+    ],
+    "achievements": [
+      "Blair earned the Ice Cream\ud83c\udf67 for getting 21 exactly!",
+      "Blair earned the Teddy Bear\ud83e\uddf8 for beating the AI 3 times!",
+      "Blair earned the Pink Lotus\ud83e\udeb7 for getting five wins!"
+    ]
+  },
+  "AI": {
+    "wins": 1,
     "badges": [],
     "achievements": []
   },
-  "AI": {
-    "wins": 2,
+  "AI Player": {
+    "wins": 0,
     "badges": [],
     "achievements": []
   }
