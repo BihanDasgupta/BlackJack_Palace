@@ -1,0 +1,33 @@
+{
+  "Player 1": {
+    "wins": 0,
+    "badges": [],
+    "achievements": []
+  },
+  "Player 2": {
+    "wins": 0,
+    "badges": [],
+    "achievements": []
+  },
+  "Serena": {
+    "wins": 2,
+    "badges": [
+      "\ud83e\udd84",
+      "\ud83c\udf67"
+    ],
+    "achievements": [
+      "Serena earned the Unicorn\ud83e\udd84 for winning after being behind in chips!",
+      "Serena earned the Ice Cream\ud83c\udf67 for getting 21 exactly!"
+    ]
+  },
+  "Blair": {
+    "wins": 0,
+    "badges": [],
+    "achievements": []
+  },
+  "AI": {
+    "wins": 2,
+    "badges": [],
+    "achievements": []
+  }
+}
